@@ -1,0 +1,4 @@
+org.mariadb.jdbc.Driver
+jdbc:mariadb://localhost:3306/database_ing_sw
+ing_sw
+auto1234

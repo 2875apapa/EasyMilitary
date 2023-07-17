@@ -1,0 +1,7 @@
+Per l'avvio dell'applicazione è necessario configurare il db utilizzato.
+Modificare il file db.txt, inserendo in ordine:
+Driver del DB
+Nome del DB utilizzato
+Username utente mysql
+pass utente mysql
+Per la creazione delle tabelle e l'inserimento dei dati relativi ai gradi è sufficiente avviare query file ing_sw_db.sql.
